@@ -1,8 +1,8 @@
 Python-Course repository
 ========================
 
-In this repository, we offer the material for a Python programming class. The
-idea is to offer an example-driven course. The interested student should go
+In this repository, we offer the material for the Python programming class. The
+class offers an example-driven material. Student should go
 through the examples given in the [examples](examples) directory of this
 repository. In there, you will also find another Readme which will guide
 you through the examples and give you the correct order.
@@ -17,29 +17,23 @@ Content
 
 * `examples`: Contains examples for the Python functions covered during the
   class.
-* `slides`: Contains the introduction slides for this course.
+* `slides`: Contains the introduction slides for this course. (For now, can be found on Canvus)
 
 
 Installing Python 3
 -------------------
 
-This course focusses on **Python 3**. Please ensure that you install the
-correction version! The support for Python 2 ends in January 2020, c.f.
-https://www.python.org/dev/peps/pep-0373/.
+This course focusses on **Python 3**. We relay on version 3.12. Please ensure that you install the
+correct version!.
 
-For Linux, Windows, MacOS, Anaconda is a good option to install Python including all dependencies: https://www.anaconda.com
 
-Alternatively, you can also use the classic installation methods:
+You can also use the classic installation methods:
 
 * Linux: Preferably use the system repository (i.e., `sudo apt install python3`)
 * Windows / Mac: https://www.python.org/downloads/
 
 Although one could use arbitrary text editors for programming, we will give a brief introduction to two editors:
 
-* Spyder
-* Jupyter Notebook (web-based)
-
-Both are shipped with Anaconda.
 
 Installing Additional Libraries
 -------------------------------
@@ -108,10 +102,7 @@ Not covered in this course (but maybe nice to know)
 * Doxygen Style for proper commenting
 * ...
 
-Contribute
-----------
 
-Whoever is interested in contributing: Feel free to fork and send pull requests
 
 License
 -------
