@@ -42,8 +42,6 @@ print(s[:4])                 # Print part of the string
 # s[-4:] = Last four characters
 # s[::2] = Every 2nd character
 
-
-
 """
 Work with input from user
 """
