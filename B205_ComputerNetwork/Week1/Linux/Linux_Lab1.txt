@@ -1,0 +1,4 @@
+https://linuxsimply.com/linux-basics/os-installation/wsl/ubuntu-on-wsl2/
+https://documentation.ubuntu.com/wsl/en/latest/howto/install-ubuntu-wsl2/
+
+https://labex.io/labs/linux-your-first-linux-lab-270253?course=quick-start-with-linux

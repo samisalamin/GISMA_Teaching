@@ -1,0 +1,2 @@
+https://labex.io/labs/nmap-scanning-subnet-with-nmap-415954?course=cybersecurity-labs-for-beginners
+https://labex.io/labs/upgrade-simple-shell-to-interactive-shell-in-nmap-416148?course=privilege-escalation-techniques-on-linux

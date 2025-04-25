@@ -1,0 +1,2 @@
+https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-1.php
+https://labex.io/labs/linux-introduction-to-encryption-with-openssl-415957?course=cybersecurity-labs-for-beginners

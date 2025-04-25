@@ -1,0 +1,3 @@
+https://labex.io/labs/nmap-network-scanning-with-nmap-415959?course=cybersecurity-labs-for-beginners
+https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-2.php
+https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-3.php
