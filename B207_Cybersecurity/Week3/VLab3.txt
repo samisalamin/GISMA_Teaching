@@ -1,2 +1,10 @@
+https://www.golinuxcloud.com/ssh-into-virtualbox-vm/
+https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server
+https://anovin.mk/tutorial/kali-linux-for-cryptography-and-encryption-testing/
+https://medium.com/@sebastienwebdev/cryptography-cybersecurity-project-42b7eb7462d5
 https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-1.php
 https://labex.io/labs/linux-introduction-to-encryption-with-openssl-415957?course=cybersecurity-labs-for-beginners
+
+
+Hacks on crypto
+https://kalilinuxtutorials.com/crypton/
