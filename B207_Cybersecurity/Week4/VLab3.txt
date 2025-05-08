@@ -1,2 +1,17 @@
+
+https://thepythoncorner.com/posts/2021-08-30-how-to-create-virus-python/
+https://medium.com/offensive-security-walk-throughs/creating-a-basic-trojan-in-python-74c53b6515db
+
 https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-1.php
 https://labex.io/labs/linux-introduction-to-encryption-with-openssl-415957?course=cybersecurity-labs-for-beginners
+
+
+Hacks:
+Buffer Overflow
+https://github.com/redr0nin/Buffer-Overflow-Guide
+https://gist.github.com/apolloclark/6cffb33f179cc9162d0a
+https://www.youtube.com/watch?v=eYrfWpkvMxA
+
+SQL injection
+https://labex.io/tutorials/kali-kali-sql-injection-with-sqlmap-552300
+https://www.kalitutorials.net/2014/03/hacking-website-with-sqlmap-in-kali.html

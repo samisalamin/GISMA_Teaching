@@ -1,0 +1,7 @@
+https://docs.python.org/3/library/ipaddress.html
+https://pytutorial.com/subnet-ip-address-using-python-guide/
+https://github.com/FrostyLabs/arp-scan
+https://github.com/computermadscientist/network_device_discovery
+
+Routing lib
+https://pypi.org/project/pyroute2/
