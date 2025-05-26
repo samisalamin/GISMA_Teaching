@@ -1,0 +1,5 @@
+	Python:
+	https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-6.php
+	VLab:
+	https://labex.io/labs/linux-cracking-a-specific-user-account-415951?course=cybersecurity-labs-for-beginners
+	https://labex.io/labs/linux-decrypting-top-secret-document-415952?course=cybersecurity-labs-for-beginners
