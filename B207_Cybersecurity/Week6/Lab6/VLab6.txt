@@ -1,0 +1,11 @@
+Python:
+
+Password validation
+https://www.geeksforgeeks.org/password-validation-in-python/
+https://pythonguides.com/validate-passwords-in-python/
+
+	https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-10.php
+
+	VLab:
+	https://labex.io/labs/exploit-sql-injection-vulnerabilities-in-nmap-416149?course=web-vulnerability-mastery
+	https://labex.io/labs/perform-sql-injection-experiments-in-nmap-416150?course=web-vulnerability-mastery
