@@ -1,4 +1,4 @@
 Python:
 	https://github.com/De3vil/KLogger
 	VLab:
-	https://labex.io/labs/explore-code-injection-vulnerabilities-in-web-applications-416156?course=web-vulnerability-mastery
+	https://learn.snyk.io/lesson/malicious-code-injection/?ecosystem=python
