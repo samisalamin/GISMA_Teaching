@@ -1,0 +1,39 @@
+Week 1
+
+1. Python Task: Suspicious Activity Detection (20–30 min)
+Objective: Practice basic log analysis using Python.
+
+Task:
+
+You’re given a simplified log file (e.g., access_log.txt) with entries like:
+2025-07-11 10:15:23 | 192.168.1.10 | LOGIN_SUCCESS
+2025-07-11 10:16:01 | 192.168.1.10 | LOGIN_FAILED
+Write a Python script to:
+Count how many times each IP appears.
+Identify IPs with more than 3 failed login attempts.
+Print a list of suspicious IPs.
+Bonus: Visualize the number of failed attempts per IP using a bar chart (optional for advanced students).
+
+
+2. Research Task: Forensic Tools in Business (15–20 min)
+Objective: Explore real-world tools used in digital forensics.
+
+Task:
+
+Choose one digital forensic tool (e.g., Autopsy, FTK, EnCase, Sleuth Kit).
+Research:
+What it does.
+How it’s used in business investigations.
+One real-world case where it was applied (if available).
+Submit a short summary (150–200 words) or prepare a 2-minute explanation for the next session.
+
+**Tool Name:** [e.g., Autopsy]
+
+**Purpose:**  
+Briefly describe what the tool does.
+
+**Business Use Case:**  
+Explain how it can be used in a business investigation.
+
+**Real-World Example (if available):**  
+Summarize a case where this tool was used.
