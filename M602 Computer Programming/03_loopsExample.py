@@ -48,7 +48,7 @@ while (number < 10):
 # 2 - Write a Python code to remove characters from a string from 0 to n and print the new string
 # Hint: Use string slicing to get a substring. For example, remove the first four characters using s[4:]. 
 # Protect your execution from wrong input; negative or out of range values.
-# 3 - Find the number of occurrences of a substring in a string
+# 3 - (SKIP) Find the number of occurrences of a substring in a string
 # Hint: Use the string method count(). E.g., s.count("something")
 # 4 - Write a Python code to check if the given number is a palindrome. A palindrome number is a number that is the same when reversed. For example, 545 is the palindrome number.
 # Hint: Reverse the given number and save it in a different variable. Use the if condition to check if the original and reverse numbers are identical. 
