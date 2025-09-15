@@ -1,0 +1,5 @@
+Error: File not found
+Warning: Disk space low
+Info: Update completed
+Error: Access denied
+Info: System rebooted
