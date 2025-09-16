@@ -1,0 +1,4 @@
+Hello, world!
+This is an example file.
+It contains multiple lines of text.
+Each line is separated by a newline character.
