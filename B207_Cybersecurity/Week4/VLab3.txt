@@ -5,7 +5,6 @@ https://medium.com/offensive-security-walk-throughs/creating-a-basic-trojan-in-p
 
 Virus
 https://shantoroy.com/security/write-a-virus-in-python/
-https://thepythoncorner.com/posts/2021-08-30-how-to-create-virus-python/
 
 https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-1.php
 https://labex.io/labs/linux-introduction-to-encryption-with-openssl-415957?course=cybersecurity-labs-for-beginners
