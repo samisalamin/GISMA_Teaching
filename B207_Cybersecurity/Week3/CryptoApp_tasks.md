@@ -82,6 +82,7 @@ Your company needs to send confidential pricing information to a partner. You'll
    - The encrypted message appears in "Encrypted Message" box
    - Click "Decrypt with Private Key"
    - Original message reappears
+   - https://anycript.com/crypto/rsa
 5. **Simulate Public Key Distribution**
 
    - Copy your public key
