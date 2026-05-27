@@ -2,7 +2,6 @@ Python Trojan / Virus (ONLY ON VM - NOT ON YOUR PC)
 Trojan
 https://hackmag.com/malware/python-malware-game-2
 https://medium.com/offensive-security-walk-throughs/creating-a-basic-trojan-in-python-74c53b6515db
-https://medium.com/offensive-security-walk-throughs/creating-a-basic-trojan-in-python-74c53b6515db
 
 Virus
 https://shantoroy.com/security/write-a-virus-in-python/
