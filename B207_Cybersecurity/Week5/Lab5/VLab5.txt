@@ -3,10 +3,11 @@ Ethical Hacking
 https://www.geeksforgeeks.org/ethical-hacking/ethical-hacking-tutorial/
 Reverse Eng.
 https://how2rev.github.io/
-https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/
 
 More lessons
 https://www.hacksplaining.com/lessons
+https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/
+
 
 Python:
 	https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-6.php
