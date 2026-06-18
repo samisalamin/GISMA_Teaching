@@ -6,6 +6,14 @@ https://pythonguides.com/validate-passwords-in-python/
 
 https://www.w3resource.com/python-exercises/cybersecurity/python-cybersecurity-exercise-10.php
 
+SQL injection:
+https://www.w3schools.com/sql/sql_injection.asp
+
 VLab:
-https://labex.io/labs/exploit-sql-injection-vulnerabilities-in-nmap-416149?course=web-vulnerability-mastery
-https://labex.io/labs/perform-sql-injection-experiments-in-nmap-416150?course=web-vulnerability-mastery
+Cracking user password
+https://labex.io/tutorials/linux-cracking-a-specific-user-account-415951
+
+attack HTTP server
+https://labex.io/tutorials/hydra-attack-http-services-with-hydra-549915
+ 
+
